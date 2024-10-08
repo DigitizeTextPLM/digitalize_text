@@ -2,3 +2,4 @@
 *.xml
 data/BenthamDataset/GT/transcriptions/*.txt
 *.jpg
+*.lst
