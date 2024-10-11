@@ -1,0 +1,20 @@
+Sentence Database M04-200
+
+LOCAL BUS DISAPPEARS announced the Dinas Advertiser. But the London papers
+ignored the whole affair. Ifor Evans reported his loss to the police. But they only tut-
+tutted. ”Lost a bus, is it. Very careless.” That was their attitude. Now if there’d been
+a good old accident, they could have measured up the road and taken an interest.
+
+ty LOCAL BUS DISAPPEARS announced the
+Dinas Actvertrser. Bat Che Lonclon pagers iqnoredt
+the whole affair. \for Cvons poported b's Cass
+
+to the police. Ral they only tuttatted. “Lost
+
+a bas ts ct. Very careless, " Thot wes Fieve
+attitude. Now tf there’ been a good old acciolent,
+they could have measurectt up the react anct
+
+Eg ken an interest.
+
+Name: CTE
