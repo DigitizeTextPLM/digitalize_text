@@ -1,4 +1,3 @@
-
 2. Insert hook through loop and under long thread. Catch long end of thread (Fig.
 
 2). Draw loop through. 3. Do not remove hook from thread. Pull short end and ball

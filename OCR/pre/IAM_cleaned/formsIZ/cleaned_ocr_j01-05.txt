@@ -1,4 +1,4 @@
-Provided the temperatures at C and E are the same, thermoelectric contributions to
+rovided the temperatures at C and E are the same, thermoelectric contributions to
 the voltage should be zero. The probe extends out of the sodium stream through a
 close fitting thin walled T-Junction F and passes into the open via a water-cooled O
 
