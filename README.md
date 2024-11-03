@@ -3,6 +3,7 @@
 ## Structure to access pre-processed data: 
 - All data located in `dataForModel`
 - Within each split of data there is the Betham data and the IAM data, and each folder further has the GT and OCR.
+- Train: Val: Test == 70:20:10
 
 ## Important to Note for Raw Data: 
 
