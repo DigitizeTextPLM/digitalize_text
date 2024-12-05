@@ -69,10 +69,10 @@ import torch
 from transformers import BertTokenizer, BertModel
 from sklearn.metrics.pairwise import cosine_similarity
 
-# https://pytorch.org/docs/stable/generated/torch.nn.CosineEmbeddingLoss.html
+# Pytorch Documentation: https://pytorch.org/docs/stable/generated/torch.nn.CosineEmbeddingLoss.html
 
 def cosine_sim_bert_loss(cosine_similarity): 
-    if 1 - cosine_similarity < 0: 
+    if 1 - cosine_similarity < 0: # due to possible rounding issues
         return 0
     return 1 - cosine_similarity
 
