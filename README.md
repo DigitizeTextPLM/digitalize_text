@@ -41,7 +41,7 @@
 - Pages has whole handwritten no GT on top. There is `\n` throughout OCR
 
 # Uncommon Imports
-## Importing [Gogole's PyTesseract](https://github.com/tesseract-ocr/tesseract) 
+## Importing [Google's PyTesseract](https://github.com/tesseract-ocr/tesseract) 
 - use `brew install tesseract`
 - to find executable `which tesseract`
 
