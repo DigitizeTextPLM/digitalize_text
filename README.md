@@ -20,7 +20,7 @@
 ## Tesseract 
 - File Name: `OCR_tesseract_digitize.ipynb`
 - Use function `run_tesseract_on_images` and provide the relative input and output directories 
-> Warning: Second `run_tesseract_on_images` concatenates the OCR from multiple images
+> Warning: Second `run_tesseract_on_images` function concatenates the OCR from multiple images
 
 # Data
 
