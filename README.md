@@ -12,7 +12,7 @@
 > Warning: May run into memory issues, so we advise to use Koa's NV-H100 GPU
 
 ## Prompt Engineering
-- File Name: `typed_text_OCR/SmartDoc_OCR_post_processing.ipynb
+- File Name: `typed_text_OCR/SmartDoc_OCR_post_processing.ipynb`
 - Change paths to where data is located on local machine
 - Run code blocks in order
 
