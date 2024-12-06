@@ -25,7 +25,7 @@
 ## Tesseract 
 - File Name: `OCR_tesseract_digitize.ipynb`
 - Use function `run_tesseract_on_images` and provide the relative input and output directories
-- For SmartDoc data set run `typed_text_OCR/SmartDoc_OCR.ipynb` cell by cell
+- For SmartDoc data set run `typed_text_OCR/SmartDoc_OCR.ipynb` blocks in order
 > Warning: Second `run_tesseract_on_images` function concatenates the OCR from multiple images
 
 # Data
