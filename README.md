@@ -9,7 +9,12 @@
 - File Name:   `gpt-train.ipynb`
 - Change paths to where data is located on local machine
 - Run code blocks in order
-> Warning: May run into memory issues, so we advise to use Koa's NV-H100 GPU 
+> Warning: May run into memory issues, so we advise to use Koa's NV-H100 GPU
+
+## Prompt Engineering
+- File Name: `typed_text_OCR/SmartDoc_OCR_post_processing.ipynb
+- Change paths to where data is located on local machine
+- Run code blocks in order
 
 ## Evaluating Data
 > Our primary evaluation metric is cosine similarity 
@@ -19,7 +24,8 @@
 
 ## Tesseract 
 - File Name: `OCR_tesseract_digitize.ipynb`
-- Use function `run_tesseract_on_images` and provide the relative input and output directories 
+- Use function `run_tesseract_on_images` and provide the relative input and output directories
+- For SmartDoc data set run `typed_text_OCR/SmartDoc_OCR.ipynb` cell by cell
 > Warning: Second `run_tesseract_on_images` function concatenates the OCR from multiple images
 
 # Data
@@ -41,7 +47,8 @@
 - Pages has whole handwritten no GT on top. There is `\n` throughout OCR
 
 ### SmartDoc dataset 
--Avaibile for download here: [https://zenodo.org/records/2572929](https://zenodo.org/records/2572929)
+- Available for download here: [https://zenodo.org/records/2572929](https://zenodo.org/records/2572929)
+- Ground Truth is just text with no positional information besides order
 
 # Uncommon Imports
 ## Importing [Google's PyTesseract](https://github.com/tesseract-ocr/tesseract) 
