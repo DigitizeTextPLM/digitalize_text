@@ -41,7 +41,7 @@
 - Pages has whole handwritten no GT on top. There is `\n` throughout OCR
 
 ### SmartDoc dataset 
--Avaibile for download here: ![https://zenodo.org/records/2572929](https://zenodo.org/records/2572929)
+-Avaibile for download here: [https://zenodo.org/records/2572929](https://zenodo.org/records/2572929)
 
 # Uncommon Imports
 ## Importing [Google's PyTesseract](https://github.com/tesseract-ocr/tesseract) 
